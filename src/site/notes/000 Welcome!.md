@@ -7,4 +7,4 @@
 While this may not be the first stop of your journey into my website— there are many ways to enter a space—welcome!
 
 
-[[A hot dog might be a sandwich, and cereal might be a soup, but is a ______ a ______?\|A hot dog might be a sandwich, and cereal might be a soup, but is a ______ a ______?]]
+[[Is a ___ a ___?\|Is a ___ a ___?]]

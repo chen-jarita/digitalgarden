@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/juxtapositions-travel-fieldwork-everyday-life/","created":"2025-05-06T13:22:08.000+08:00"}
+{"dg-publish":true,"permalink":"/juxtapositions-travel-fieldwork-everyday-life/"}
 ---
 
 
