@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/a-hot-dog-might-be-a-sandwich-and-cereal-might-be-a-soup-but-is-a-a/"}
+{"dg-publish":true,"permalink":"/a-hot-dog-might-be-a-sandwich-and-cereal-might-be-a-soup-but-is-a-a/","created":"2025-05-06T13:22:08.000+08:00"}
 ---
 
 
 
-I’ve refused the word “fieldwork” to describe what I was doing. Even if it made what I was doing more [[legible\|legible]], I just… didn’t like it.
+I’ve refused the word “fieldwork” to describe what I was doing. Yes, you may think, if it looks like a duck, swims like a duck, and quacks like a duck, then it probably *is* a duck. However,
+even if it made what I was doing more [[legible\|legible]], I just… didn’t like it.
 
-Yes, you may think, if it looks like a duck, swims like a duck, and quacks like a duck, then it probably *is* a duck. T
 
 I wanted to resist its “observational,” “purpose-driven” “utilitarian” features. No matter how… anthropological discursive self-reflexivity, it always felt performatively academic, to appeal to a certain set of institutional conventions determined by certain people in power.
 
