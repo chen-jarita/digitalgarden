@@ -7,9 +7,9 @@
 
 While this may not be the first stop of your journey into my website ([digital garden](https://maggieappleton.com/garden-history/))— there are many ways to enter a space—welcome!
 
->  **What are different ways to set this "homepage" up?** 
->   I think introductions and procedure-setting are important, but they are also [[Relationality\|relational]] and context specific. 
->    [[Liboiron and introductions - "stories aren't mine to share"\|Not all information is meant to be shared with everyone]], and [[Refusal\|not all decisions need to be explained, not all explanations need to be stated]].
+**What are different ways to set this "homepage" up?** 
+   I think introductions and procedure-setting are important, but they are also [[Relationality\|relational]] and context specific.     
+   [[Liboiron and introductions - "stories aren't mine to share"\|Not all information is meant to be shared with everyone]], and [[Refusal\|not all decisions need to be explained, not all explanations need to be stated]].
 
 [[Citation as relating\|Citation as relating]]
 
