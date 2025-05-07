@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/arkz/","updated":"2025-05-07T21:46:56.165+08:00"}
----
-
-bassist
-from [[Fussa (City)\|Fussa (City)]]
