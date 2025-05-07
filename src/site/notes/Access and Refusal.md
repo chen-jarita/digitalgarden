@@ -6,8 +6,8 @@
 ![There is Nothing Here - Digital Garden.png|350](/img/user/There%20is%20Nothing%20Here%20-%20Digital%20Garden.png)*(Screenshot of this digital garden)*
 "There is nothing" because it is "probably not made public."
 
-> [! ]
-> See: [[Infrastructure and Access\|Infrastructure and Access]], [[Social Media as Infrastructure\|Social Media as Infrastructure]]
+> [! ] See: [[Infrastructure and Access\|Infrastructure and Access]], [[Social Media as Infrastructure\|Social Media as Infrastructure]]
+
 
 ---
 ###
