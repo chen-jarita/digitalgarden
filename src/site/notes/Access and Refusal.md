@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/access-and-refusal/","updated":"2025-05-07T22:47:29.112+08:00"}
+{"dg-publish":true,"permalink":"/access-and-refusal/","updated":"2025-05-07T22:52:38.252+08:00"}
 ---
 
 ## An exhibit of refusals
@@ -8,6 +8,7 @@
 "There is nothing" because it is "probably not made public."
 See: [[Infrastructure and Access\|Infrastructure and Access]], [[Social Media as Infrastructure\|Social Media as Infrastructure]]
 ---
+
 ![Indigenous Reserved and No Entry - Taroko National Park.png|300](/img/user/Indigenous%20Reserved%20and%20No%20Entry%20-%20Taroko%20National%20Park.png)
 
 
