@@ -1,12 +1,10 @@
 ---
-{"dg-publish":false,"permalink":"/different-tourisms/","updated":"2025-05-07T22:20:43.939+08:00"}
+{"dg-publish":true,"permalink":"/different-tourisms/"}
 ---
-
-
 
 #### Seichi Junrei (Fussa, Hokkaido)
 
-Seichi Junrei (lit. pilgrimage to sacred places) is a type of “pop culture” “contents” tourism. 
+[[Seichi Junrei\|Seichi Junrei]] (lit. pilgrimage to sacred places) is a type of “pop culture” “contents” tourism. 
 
 > a Japanese buzzword and internet slang term describing a form of pop-culture tourism or film tourism where fans of anime subculture-related media make visits to real-world locations featured as settings, backgrounds, or general inspiration for their favorite series.
 
