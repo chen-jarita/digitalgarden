@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-a-a/"}
+{"dg-publish":true,"permalink":"/is-a-a/","updated":"2025-05-07T14:43:10.936+08:00"}
 ---
 
 # A hot dog might be a sandwich, and cereal might be a soup, but is a______ a______ ______?
