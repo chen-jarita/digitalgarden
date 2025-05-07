@@ -1,10 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/000-welcome/","tags":["gardenEntry"],"updated":"2025-05-07T14:42:44.646+08:00"}
+{"dg-publish":true,"permalink":"/000-welcome/","tags":["gardenEntry"]}
 ---
 
 ![WELCOME - Fussa Map.png](/img/user/WELCOME%20-%20Fussa%20Map.png)
+([[Fussa (City)\|Image Source]])
 
-While this may not be the first stop of your journey into my website— there are many ways to enter a space—welcome!
+While this may not be the first stop of your journey into my website ([digital garden](https://maggieappleton.com/garden-history/))— there are many ways to enter a space—welcome!
 
+>  **What are different ways to set this "homepage" up?** 
+>   I think introductions and procedure-setting are important, but they are also [[Relationality\|relational]] and context specific. 
+>    [[Liboiron and introductions - "stories aren't mine to share"\|Not all information is meant to be shared with everyone]], and [[Refusal\|not all decisions need to be explained, not all explanations need to be stated]].
 
-[[Is a ___ a ___?\|Is a ___ a ___?]]
+[[Citation as relating\|Citation as relating]]
+
+If you want to learn more about the project, here's a [[snippet\|snippet]].
+
+If you are more inclined explore, feel free to wander around or follow the [[Trails\|trails]] using this button and exploring the nodes
+![Screenshot 2025-05-07 at 5.55.53 PM.png|275](/img/user/Screenshot%202025-05-07%20at%205.55.53%20PM.png)
+
+Otherwise, the following is a list of items arranged in alphabetical  order 
+> [[Is a ___ a ___?\|Is a ___ a ___?]]

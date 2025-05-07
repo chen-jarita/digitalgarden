@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/juxtapositions-travel-fieldwork-everyday-life/","updated":"2025-05-07T14:44:04.837+08:00"}
+{"dg-publish":true,"permalink":"/juxtapositions-travel-fieldwork-everyday-life/"}
 ---
-
-
 
 A conversation about temporality, power, [[Spatiality\|spatiality]] (insides/outsides).
 
