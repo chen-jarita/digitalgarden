@@ -2,7 +2,10 @@
 {"dg-publish":true,"dg-permalink":"authenticity-good-travelers-bad-tourists","permalink":"/authenticity-good-travelers-bad-tourists/"}
 ---
 
-Shepherd, Robert. 2003. “Fieldwork Without Remorse: Travel Desires in a Tourist World.” *Consumption Markets & Culture* 6 (2): 133–44. [https://doi.org/10.1080/1025386032000109596](https://doi.org/10.1080/1025386032000109596).
+#source 
+
+Excerpts from [[Shepeherd 2003 - Field Without Remorse - Travel Desires in a Tourist World\|Shepeherd 2003 - Field Without Remorse - Travel Desires in a Tourist World]]
+
 
 ![Screenshot 2025-05-06 at 2.54.17 PM.png](./Screenshot%202025-05-06%20at%202.54.17%E2%80%AFPM.png)
 
