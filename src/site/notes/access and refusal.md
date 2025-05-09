@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/access-and-refusal/"}
 ---
 
-## An exhibit of [[Refusal\|refusals]]
+[[access (content map)\|access]]
+
+
+---
+## An exhibit of [[refusal\|refusals]]
 ![There is Nothing Here - Digital Garden.png|350](/img/user/There%20is%20Nothing%20Here%20-%20Digital%20Garden.png)*(Screenshot of this digital garden)*
 "There is nothing" because it is "probably not made public."
 

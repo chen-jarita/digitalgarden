@@ -4,7 +4,7 @@
 
 #source 
 
-Excerpts from [[Shepeherd 2003 - Field Without Remorse - Travel Desires in a Tourist World\|Shepeherd 2003 - Field Without Remorse - Travel Desires in a Tourist World]]
+Excerpts from [[Shepherd 2003 - Fieldwork Without Remorse - Travel Desires in a Tourist World\|Shepherd 2003 - Fieldwork Without Remorse - Travel Desires in a Tourist World]]
 
 
 ![Screenshot 2025-05-06 at 2.54.17 PM.png](./Screenshot%202025-05-06%20at%202.54.17%E2%80%AFPM.png)
